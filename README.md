@@ -11,4 +11,4 @@ Contact
 
 You can reach me via email at arjitjha47@gmail.com or connect with me on GitHub/https://github.com/Abhinavcoderrrrr.
 
-You can use this project as refrence to create your own About Me Website,  or Copy the whole Project, and make nessecery change but in that case give me credits
+You can use this project as refrence to create your own About Me Website,  or Copy the whole Project, and make nessecery change what comes in your sight, but in that case give me credits.
